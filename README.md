@@ -1,4 +1,2 @@
 # sending-sms
-jhgfdsjngfh
-jnhgfzgdh
-kjhgcvbnm
+gcvnbvnbvnbc nb
