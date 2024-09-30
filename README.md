@@ -1,4 +1,4 @@
-# sending-sms
+
 # Bulk Email Sender from Excel
 
 This Python script reads email addresses from an Excel file and sends an email to each address using SMTP. It can be useful for sending bulk emails in a simple and automated way.
